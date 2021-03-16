@@ -1,3 +1,6 @@
+<h2>Hi, Welcome to mi Github!</h2>
+<h4>Stay awhile and see some things about me and my projects. ☺️ </h4>
+
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
