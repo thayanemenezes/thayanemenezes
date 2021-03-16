@@ -1,23 +1,14 @@
-<h2>Hi, Welcome to mi Github!</h2>
+<h2>Hi, Welcome to mi Github! 👋 </h2>
 <h4>Stay awhile and see some things about me and my projects. ☺️ </h4>
 
-<a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+<a target="_blank" href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5585989321462&text=Ol%C3%A1!%20Tudo%20bem%3F">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/ary.clenio/">
+<a target="_blank" href="https://www.instagram.com/thayanemenezees/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a target="_blank" href="https://dev.to/aryclenio/">
-  <img align="left" alt="Devto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://fb.com/aryxb">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <!--
