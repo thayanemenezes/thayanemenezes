@@ -10,7 +10,7 @@ Languages/libraries that i use 👩‍💻
 Plans for the near future 🚀
 - To learn and use Python in Artificial Intelligence
 
-Let's work togheter! Follow me in my social medias ❤️
+<h3>Let's work togheter! Follow me in my social medias ❤️</h3>
 <a target="_blank" href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
