@@ -1,5 +1,5 @@
-<h2>Olá!</h2>
-<h4>Seja bem vindo(a) ao meu Github!<//h4>
+#Olá!
+##Seja bem vindo(a) ao meu Github!
 
 <!--
 **thayanemenezes/thayanemenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
