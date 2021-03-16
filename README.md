@@ -10,7 +10,7 @@ Languages/libraries that i use 👩‍💻
 Plans for the near future 🚀
 - To learn and use Python in Artificial Intelligence (already in process)
 
-<h3>Let's work togheter! Follow me in my social medias ❤️</h3>
+<h3>Let's work togheter! Follow me on my social medias ❤️</h3>
 <a target="_blank" href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -21,18 +21,3 @@ Plans for the near future 🚀
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5585989321462&text=Ol%C3%A1!%20Tudo%20bem%3F">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-
-<!--
-**thayanemenezes/thayanemenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
