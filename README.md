@@ -1,4 +1,4 @@
-<h2>Hi, Welcome to mi Github! 👋 </h2>
+<h2>Hi, Welcome to my Github! 👋 </h2>
 <h4>Stay awhile and see some things about me and my projects. ☺️ </h4>
 
 Languages/libraries that i use 👩‍💻
