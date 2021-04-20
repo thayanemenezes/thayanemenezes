@@ -1,14 +1,22 @@
 <h2>Hi, Welcome to my Github! 👋 </h2>
 <h4>Stay awhile and see some things about me and my projects. ☺️ </h4>
 
-Languages/libraries that i use 👩‍💻
+Languages/libraries that i use and i like to work 👩‍💻
 - "HTML"
 - CSS
 - JavaScript
 - ReactJS
 
-Plans for the near future 🚀
-- To learn and use Python in Artificial Intelligence (already in process)
+what I already studied 📚
+- Java - Android
+- Java POO
+- Python RAD
+- NodeJS
+- PHP
+- MySQL
+- Slite3
+- C#
+
 
 <h3>Let's work togheter! Follow me on my social medias ❤️</h3>
 <a target="_blank" href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/">
