@@ -7,7 +7,7 @@ Languages/libraries that i use and i like to work 👩‍💻
 - JavaScript
 - ReactJS
 
-what I already studied 📚
+What I already studied 📚
 - Java - Android
 - Java POO
 - Python RAD
