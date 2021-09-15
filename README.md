@@ -6,12 +6,14 @@ Languages/libraries that i use and i like to work 👩‍💻
 - CSS
 - JavaScript
 - ReactJS
+- Python
+- NodeJS
+- NestJS
+- SQL Server
 
 What I already studied 📚
 - Java - Android
 - Java POO
-- Python RAD
-- NodeJS
 - PHP
 - MySQL
 - Slite3
