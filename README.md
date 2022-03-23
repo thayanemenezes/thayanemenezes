@@ -15,7 +15,7 @@ What I already studied 📚
 - Java POO
 - PHP
 - MySQL
-- Slite3
+- SQlite3
 - C#
 
 
