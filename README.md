@@ -23,6 +23,3 @@ What I already studied 📚
 <a target="_blank" href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/thayanemenezees/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a><br>
