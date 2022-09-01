@@ -5,7 +5,8 @@ Languages/libraries that i use and i like to work 👩‍💻
 - "HTML"
 - CSS
 - JavaScript
-- ReactJS
+- ReactJS 
+- NextJS
 - Python
 - NodeJS
 - NestJS
