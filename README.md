@@ -20,7 +20,12 @@ What I already studied 📚
 - C#
 
 
-<h3>Let's work togheter! Follow me on my social medias ❤️</h3>
-<a target="_blank" href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+## Social Medias
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/gist/thayanemenezes/eb4ee82bfe000dcb2a265e5182910391/raw/6e29cf10cf9a4129bcd2949452a6195fd5966375/linkedin.svg" alt="linkedin"/>
 </a>
+<a href="https://www.instagram.com/thayanemenezees/" target="_blank">
+ <img align="center" src="https://raw.githubusercontent.com/gist/thayanemenezes/4928e581acb3608231ccb292d88e4819/raw/6b2b5004393e895758c3bc47e4a8d3a07810c999/insta.svg" alt="instagram"/>
+</a>
+</p>
