@@ -23,7 +23,7 @@ What I already studied 📚
 ## Social Medias
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/gist/thayanemenezes/eb4ee82bfe000dcb2a265e5182910391/raw/6e29cf10cf9a4129bcd2949452a6195fd5966375/linkedin.svg" alt="linkedin"/>
+  <img align="center" src="https://raw.githubusercontent.com/gist/thayanemenezes/71fbd509fef2059b5e2ea2f7e38656ae/raw/d99ad11e0ed176d32d0c2c0a06ff5596f9ba8dfb/linkedin.svg" alt="linkedin"/>
 </a>
 <a href="https://www.instagram.com/thayanemenezees/" target="_blank">
  <img align="center" src="https://raw.githubusercontent.com/gist/thayanemenezes/4928e581acb3608231ccb292d88e4819/raw/6b2b5004393e895758c3bc47e4a8d3a07810c999/insta.svg" alt="instagram"/>
