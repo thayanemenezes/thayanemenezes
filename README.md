@@ -11,7 +11,7 @@
 - 👩🏾‍💻 Web Fullstack Developer at Cartão Vai Bem
 - 📚 Graduate Student in Computer Science
 - 🖥 For backend, i'm working with NodeJs + Express, Nestjs and TypeScript. In Frontend, using ReactJS + NextJs.
-- 🐍 Plus: i already builded some routines for data analysis using Python with Pandas, NumPy 
+- 🐍 Plus: i already builded some routines for data analysis using Python with Pandas and NumPy 
 
 ## Social Medias
 <p>
