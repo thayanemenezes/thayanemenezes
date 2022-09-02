@@ -1,23 +1,11 @@
-<h2>Hi, Welcome to my Github! 👋 </h2>
-<h4>Stay awhile and see some things about me and my projects. ☺️ </h4>
+<h2>Hi, i'm Thayane Menezes <img height="30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/> </h2>
 
-Languages/libraries that i use and i like to work 👩‍💻
-- "HTML"
-- CSS
-- JavaScript
-- ReactJS 
-- NextJS
-- Python
-- NodeJS
-- NestJS
+![snake gif](https://github.com/thayanemenezes/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)  
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanemenezes&layout=compact&theme=dracula)
 
-What I already studied 📚
-- Java - Android
-- Java POO
-- PHP
-- MySQL
-- SQlite3
-- C#
+
+- 👩‍💻 Web Fullstack Developer at Cartão Vai Bem
+- 📚 Graduate student in Computer Science
 
 
 ## Social Medias
