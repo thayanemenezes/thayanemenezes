@@ -1,7 +1,9 @@
 <h2>Hi, i'm Thayane Menezes <img height="30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/> </h2>
 
 <div align="center">
-  
+
+![thayanemenezes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanemenezes&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
 ![thayanemenezes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thayanemenezes&theme=dracula&hide_border=true)
 
 </div>
