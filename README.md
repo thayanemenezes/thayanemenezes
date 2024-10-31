@@ -4,8 +4,6 @@
 
 ![thayanemenezes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanemenezes&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-![thayanemenezes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thayanemenezes&theme=dracula&hide_border=true)
-
 </div>
 
 - 👩🏾‍💻 Web Fullstack Developer at Solution4Fleet
@@ -15,11 +13,14 @@
 
 ## Social Medias
 <div>
-<a href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/gist/thayanemenezes/71fbd509fef2059b5e2ea2f7e38656ae/raw/d99ad11e0ed176d32d0c2c0a06ff5596f9ba8dfb/linkedin.svg" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/" target="_blank" style="margin: 5px;">
+  <img align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
-<a href="https://www.instagram.com/thayanemenezees/" target="_blank">
- <img align="center" src="https://raw.githubusercontent.com/gist/thayanemenezes/4928e581acb3608231ccb292d88e4819/raw/6b2b5004393e895758c3bc47e4a8d3a07810c999/insta.svg" alt="instagram"/>
+<a href="https://thayane-menezes.vercel.app target="_blank" style="margin: 5px;">
+ <img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
+</a>
+<a href="https://www.instagram.com/thayanemenezees/" target="_blank" style="margin: 5px;">
+ <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 </div>
 
