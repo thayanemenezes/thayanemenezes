@@ -6,11 +6,11 @@
 
 </div>
 
-👩🏾‍💻 Web Fullstack Developer at Solution4Fleet
-📚 Graduate Student in Computer Science
-🖥 For backend, i'm working with NodeJs + Express, Nestjs and TypeScript. In Frontend, using ReactJS + NextJs.
-🐍 Plus: i already builded some routines for data analysis using Python with Pandas and NumPy 
-🔧 Embedded Systems Experience: I have worked with embedded systems, utilizing ESP32 and Arduino, developing IoT solutions with sensor integration, real-time communication, and remote monitoring.
+- 👩🏾‍💻 Web Fullstack Developer at Solution4Fleet
+- 📚 Graduate Student in Computer Science
+- 🖥 For backend, i'm working with NodeJs + Express, Nestjs and TypeScript. In Frontend, using ReactJS + NextJs.
+- 🐍 Plus: i already builded some routines for data analysis using Python with Pandas and NumPy 
+- 🔧 Embedded Systems Experience: I have worked with embedded systems, utilizing ESP32 and Arduino, developing IoT solutions with sensor integration, real-time communication, and remote monitoring.
 
 <div>
 <a href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/" target="_blank" style="margin: 5px;">
