@@ -1,12 +1,5 @@
 <h2>Hi, i'm Thayane Menezes <img height="30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/> </h2>
 
-<div align="center">
-
-[[![thayanemenezes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanemenezes&theme=dracula&show_icons=true&hide_border=true&layout=compact)](https://git-wrapped.com/profiles/thayanemenezes)
-](https://git-wrapped.com/profiles/thayanemenezes)
-
-</div>
-
 - 👩🏾‍💻 Web Fullstack Developer at Solution4Fleet
 - ⚙️ Backend: Development of REST APIs and Microservices using Node.js, Express, NestJS, and TypeScript
 - 🖥 Frontend: Building responsive web applications with ReactJS, Next.js, Sass, Styled Components, and Chakra UI
