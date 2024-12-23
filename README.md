@@ -2,7 +2,8 @@
 
 <div align="center">
 
-[![thayanemenezes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanemenezes&theme=dracula&show_icons=true&hide_border=true&layout=compact)](https://git-wrapped.com/profiles/thayanemenezes)
+[[![thayanemenezes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thayanemenezes&theme=dracula&show_icons=true&hide_border=true&layout=compact)](https://git-wrapped.com/profiles/thayanemenezes)
+](https://git-wrapped.com/profiles/thayanemenezes)
 
 </div>
 
