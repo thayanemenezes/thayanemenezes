@@ -7,5 +7,5 @@
 - 🔧 Worked with embedded systems, utilizing ESP32 and Arduino, developing IoT solutions with sensor integration, real-time communication, and remote monitoring, using C++
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayane-menezes-31a5a9191/)
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="20"/>](https://www.linkedin.com/in/thayane-menezes-31a5a9191/)
 
