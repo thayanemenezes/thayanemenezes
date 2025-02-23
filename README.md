@@ -7,10 +7,6 @@
 - 🔧 Worked with embedded systems, utilizing ESP32 and Arduino, developing IoT solutions with sensor integration, real-time communication, and remote monitoring, using C++
 
 <div>
-  <a href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/" target="_blank" style="margin: 5px; display: inline-block;">
-    <img href="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg"/>
-  </a>
-  <a href="https://thayane-menezes.vercel.app" target="_blank" style="margin: 5px; display: inline-block;">
-     <img href="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/dribbble.svg"/>
-  </a>
+- Portfolio: [:globe_with_meridians:](https://thayane-menezes.vercel.app)
+- LinkedIn: [:briefcase:](https://www.linkedin.com/in/thayane-menezes-31a5a9191/)
 </div>
