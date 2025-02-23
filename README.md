@@ -13,7 +13,4 @@
   <a href="https://thayane-menezes.vercel.app" target="_blank" style="margin: 5px; display: inline-block;">
     <img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
   </a>
-  <a href="https://www.instagram.com/thayanenm/" target="_blank" style="margin: 5px; display: inline-block;">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
 </div>
