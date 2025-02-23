@@ -8,9 +8,9 @@
 
 <div>
   <a href="https://www.linkedin.com/in/thayane-menezes-31a5a9191/" target="_blank" style="margin: 5px; display: inline-block;">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    [https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg]
   </a>
   <a href="https://thayane-menezes.vercel.app" target="_blank" style="margin: 5px; display: inline-block;">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
+     [https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/dribbble.svg]
   </a>
 </div>
