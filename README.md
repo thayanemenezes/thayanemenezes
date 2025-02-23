@@ -6,7 +6,6 @@
 - 🐍 Data Analysis & Image Processing: Developed data analysis routines using Python, Pandas, NumPy, and SQL. Also, worked on image processing tasks using Pytesseract for optical character recognition (OCR)
 - 🔧 Worked with embedded systems, utilizing ESP32 and Arduino, developing IoT solutions with sensor integration, real-time communication, and remote monitoring, using C++
 
-<div>
-- Portfolio: [:globe_with_meridians:](https://thayane-menezes.vercel.app)
-- LinkedIn: [:briefcase:](https://www.linkedin.com/in/thayane-menezes-31a5a9191/)
-</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayane-menezes-31a5a9191/)
+
