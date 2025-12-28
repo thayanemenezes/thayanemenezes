@@ -8,5 +8,4 @@
 
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="50"/>](https://www.linkedin.com/in/thayane-menezes-31a5a9191/)
-[<img src="https://img.icons8.com/color/48/000000/globe--v1.png" width="50"/>](https://thayane-menezes.vercel.app)
 
