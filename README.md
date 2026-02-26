@@ -1,4 +1,4 @@
-<h2>Hi, i'm Thayane Menezes <img height="30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/> </h2>
+<h2>Hi, i'm Thayane Nascimento <img height="30px" src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"/> </h2>
 
 - 👩🏾‍💻 Web Fullstack Developer 
 - ⚙️ Backend: Development of REST APIs and Microservices using Node.js, Express, NestJS, and TypeScript
